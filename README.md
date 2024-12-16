@@ -1,16 +1,8 @@
-# coffee_card
 
-A new Flutter project.
 
-## Getting Started
+## ☕ My Coffee ID
 
-This project is a starting point for a Flutter application.
+A simple coffee preference card built with Flutter, where you can customize your coffee strength and sugar levels using intuitive increment and decrement buttons.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/ed176e51-a4ef-433e-8f47-5c325d01692d)
